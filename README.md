@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Appealing%2&fontSize=90&animation=twinkling&desc=Development&descSize=20)
+<br><br><br>
 ## Seul's Proflie
 ✨ I'm full stack developer.
 <br>
-
-
+<br>
 <!--
 **dearseul/dearseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://img.shields.io/badge/JS-#000000?style=for-the-badge&logo=#F7DF1E&logoColor=black">
