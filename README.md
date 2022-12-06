@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/#fff?style=plastic&logo=#7A1FA2&logoColor=#000"/></a>
+<a href="https://github.com/dearseul" target="_blank"><img src="https://img.shields.io/badge/#fff?style=plastic&logo=#7A1FA2&logoColor=#000"/></a>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearseul&show_icons=true&theme=radical)
