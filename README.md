@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Appealing%2&fontSize=90&animation=twinkling&desc=Development&descSize=20)
 <br><br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C1CAF4&title_bg=%23818080&icon=googlekeep.svg&icon_color=%23E1FF58&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## ✨ Front-end Stack ✨ 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
