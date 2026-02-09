@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 -->
 
 
+<!--
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearseul&show_icons=true&theme=radical)
-
+-->
 </div>
